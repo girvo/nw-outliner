@@ -1,0 +1,11 @@
+{
+    "name": "nw-outliner",
+    "main": "./app/views/index.html",
+    "window": {
+        "title": "nwOutliner",
+        "position": "center",
+        "toolbar": false,
+        "height": 640,
+        "width": 320
+    }
+}
