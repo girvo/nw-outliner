@@ -1,6 +1,6 @@
 {
     "name": "nw-outliner",
-    "main": "./app/views/index.html",
+    "main": "app/views/index.html",
     "window": {
         "title": "nwOutliner",
         "position": "center",
