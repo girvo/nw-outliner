@@ -4,8 +4,8 @@
     "window": {
         "title": "nwOutliner",
         "position": "center",
-        "toolbar": false,
+        "toolbar": true,
         "height": 640,
-        "width": 320
+        "width": 480
     }
 }
